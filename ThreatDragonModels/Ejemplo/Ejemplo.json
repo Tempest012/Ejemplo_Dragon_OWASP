@@ -1,0 +1,31 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Ejemplo",
+    "owner": "Harol",
+    "description": "Ejemplo",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Cesar"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Ejemplo diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": [],
+        "description": "es un ejemplo"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Cesar",
+    "threatTop": 0
+  }
+}
