@@ -155,7 +155,7 @@
               ],
               "threatFrequency": {
                 "spoofing": 0,
-                "tampering": 1,
+                "tampering": 4,
                 "repudiation": 0,
                 "informationDisclosure": 0,
                 "denialOfService": 0,
@@ -759,7 +759,7 @@
           {
             "position": {
               "x": 495,
-              "y": 463
+              "y": 493
             },
             "size": {
               "width": 120,
